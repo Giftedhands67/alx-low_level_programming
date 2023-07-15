@@ -1,12 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - p prints all possible combinations of two-digit numbers
+ * main - prints all possible combinations of two-digit numbers
  * Return: 0 (Success)
  */
 int main(void)
 {
-	int i; j;
+	int i,  j;
 
 	for (i = 0; i < 100; i++)
 	{
